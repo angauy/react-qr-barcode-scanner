@@ -32,11 +32,12 @@
   },
   "homepage": "https://github.com/jamenamcinteer/react-qr-barcode-scanner#readme",
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
   },
   "dependencies": {
-    "@types/react": "^19.0.2",
+    "@types/react": "19.0.2",
+    "@types/react-dom": "19.0.2",
     "@zxing/library": "^0.21.3",
     "react-webcam": "^7.1.1"
   },
